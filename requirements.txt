@@ -1,4 +1,6 @@
+tk
 cryptography
 arabic-reshaper
 python-bidi
-
+qrcode
+pillow
