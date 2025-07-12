@@ -97,7 +97,7 @@ CyberPassPro/
 ## 🧪 مثال على تشغيل مباشر (بافتراض أنك داخل مجلد المشروع)
 
 ```bash
-git clone https://github.com/yourusername/CyberPassPro.git
+https://github.com/ABDESSAMAD-BOURKIBATE/CyberPassPro.git
 cd CyberPassPro
 pip install -r requirements.txt
 python CyberPassPro.py
